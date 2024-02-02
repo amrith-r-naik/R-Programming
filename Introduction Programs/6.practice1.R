@@ -1,0 +1,5 @@
+vec = c(1,2,3)
+char_vec = c("Hadoop","Spark","Flink","Mahout")
+logic_vec = c(TRUE,FALSE,TRUE,FALSE)
+out_list = list(vec,char_vec,logic_vec)
+print(out_list)
